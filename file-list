@@ -1,4 +1,5 @@
 [
 {"file":"bash_aliases", "path":".bash_aliases"},
-{"file":"config_i3", "path":".config/i3/config"}
+{"file":"Xdefaults", "path":".Xdefaults"},
+{"file":"config-i3", "path":".config/i3/config"}
 ]

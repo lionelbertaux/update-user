@@ -230,3 +230,5 @@ client.focused	   #00DFFF	#111111	#FFFFFF	#FF00FF
 # Raccourci pour alterner entre les modes de bordures (normale, 1 pixel ou aucune)
 #bindsym $mod+b border toggle
 
+
+# Auto start programs
